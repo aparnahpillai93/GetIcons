@@ -4,7 +4,7 @@
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
     <color name="black">#000000</color>
-    <color name="black70">#B3000000</color>
+    <color name="black70">#CC000000</color>
     <color name="grey">#80000000</color>
     <color name="progressbarcolor">#80000000</color>
     <color name="white">#FFFFFF</color>

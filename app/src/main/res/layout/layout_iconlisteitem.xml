@@ -36,7 +36,7 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:srcCompat="@drawable/ic_test"/>
+                    tools:srcCompat="@drawable/ic_test"/>
 
                 <ImageView
                     android:id="@+id/imageView2"
@@ -55,7 +55,7 @@
                     android:layout_marginStart="@dimen/_10sdp"
                     android:layout_marginTop="@dimen/_10sdp"
                     android:fontFamily="@font/poppins_regular"
-                    android:text="Icon Type"
+                    tools:text="Icon Type"
                     android:textColor="@color/black70"
                     android:textSize="@dimen/_11ssp"
                     app:layout_constraintEnd_toStartOf="@+id/price"
@@ -70,7 +70,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="@dimen/_10sdp"
                     android:fontFamily="@font/poppins_medium"
-                    android:text="$ 421"
+                    tools:text="$ 421"
                     android:textColor="@color/green_price"
                     android:textSize="@dimen/_11ssp"
                     app:layout_constraintBottom_toBottomOf="@+id/type"
@@ -86,7 +86,7 @@
                     android:layout_marginTop="@dimen/_5sdp"
                     android:layout_marginBottom="@dimen/_10sdp"
                     android:fontFamily="@font/poppins_regular"
-                    android:text="Author Name"
+                    tools:text="Author Name"
                     android:textColor="@color/black70"
                     android:textSize="@dimen/_11ssp"
                     app:layout_constraintBottom_toBottomOf="parent"
